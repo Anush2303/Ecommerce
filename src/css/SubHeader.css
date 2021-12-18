@@ -1,0 +1,20 @@
+.subheader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.heading{
+    margin-left:10px;
+}
+.icon_{
+    width:30px;
+    height:30px;
+    border:1px solid rgb(96, 230, 136);
+    border-radius:100%;
+    margin-top: 10px;
+    margin-right:20px;
+}
+.icon__{
+    background-color: rgb(96, 230, 136);
+    color:white;
+}

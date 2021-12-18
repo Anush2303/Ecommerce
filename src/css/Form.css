@@ -1,0 +1,45 @@
+.form_{
+    margin-left:10px;
+}
+.buttonform_ {
+    margin-right:20px;
+    width:150px;
+    font-weight: 700;
+    color: #313133;
+    background: lightgray;
+    background: linear-gradient(90deg, lightgray 0%, lightgray 100%);
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(255, 255, 255, 0.64);
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    padding: 10px;
+}
+.buttonform {
+    margin-right:20px;
+    font-weight: 700;
+    color: #313133;
+    width:150px;
+    background: #05ec81;
+    background: linear-gradient(90deg, #05ec81 0%, #05ec81 100%);
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(255, 255, 255, 0.64);
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    padding: 10px;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+}
+.field{
+    margin-right:10px;
+    width:230px;
+    height:30px;
+    border-radius: 1000px;
+    color:grey;
+}
+ 

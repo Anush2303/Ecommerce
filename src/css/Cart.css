@@ -1,0 +1,52 @@
+.cart{
+    margin-left:20px;
+}
+.brand{
+    height:50px;
+    width:50px;
+    border-radius: 100%;
+}
+.price_{
+    margin-top:10px;
+    float:right;
+    margin-left:193px;
+}
+.price{
+    margin-top:10px;
+    float:right;
+    margin-left:220px;
+}
+.buttonring_ {
+    margin-left:60px;
+    font-weight: 700;
+    color: lightgray;
+    background: lightgray;
+    background: linear-gradient(90deg, lightgray 0%, lightgray 100%);
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(255, 255, 255, 0.64);
+    outline: none;
+    position: relative;
+    padding: 10px;
+    width:250px;
+}
+.total{
+    color:grey;
+    margin-left:60px;
+}
+.free{
+    margin-left:25px;
+    margin-top:10px;
+    display: flex;
+    flex-direction: row;
+}
+.free_{
+    color:gray;
+    margin-left:20px;
+}
+.cartIcon{
+    margin-top:22px;
+}
+.discount{
+    color:black;
+}

@@ -1,0 +1,39 @@
+.buttoncart_ {
+    margin-right:20px;
+    font-weight: 700;
+    color: #313133;
+    background: lightgray;
+    background: linear-gradient(90deg, lightgray 0%, lightgray 100%);
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(255, 255, 255, 0.64);
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    padding: 10px;
+}
+.buttoncart {
+    margin-right:20px;
+    font-weight: 700;
+    color: #313133;
+    background: #05ec81;
+    background: linear-gradient(90deg, #05ec81 0%, #05ec81 100%);
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(255, 255, 255, 0.64);
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    padding: 10px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.back{
+    margin-left: 20px;
+}
+.footericon{
+    margin-right:30px;
+}
